@@ -8,29 +8,29 @@ function HomePages() {
   const data = [
     {
       id: 1,
-      nama: 'NAMA 1',
-      nim: '2112011XXXXXXX',
-      kelompok: 'xx',
+      nama: 'Abimanyu Putro Yulianto',
+      nim: '21120119140120',
+      kelompok: '13 ',
     },
     {
       id: 2,
-      nama: 'NAMA 2',
-      nim: '2112011XXXXXXX',
-      kelompok: 'xx',
+      nama: 'Aryo Binatoro Srie Tanto',
+      nim: '21120119140121',
+      kelompok: '13 ',
     },
     {
       id: 3,
-      nama: 'NAMA 3',
-      nim: '2112011XXXXXXX',
-      kelompok: 'xx',
+      nama: 'Yohanes Kukuh Niti Cahya Bagaskara',
+      nim: '21120119130095',
+      kelompok: '13 ',
     },
     {
       id: 4,
-      nama: 'NAMA 4',
-      nim: '2112011XXXXXXX',
-      kelompok: 'xx',
+      nama: 'Rasyid Muliya Irawan',
+      nim: '21120119130068',
+      kelompok: '13 ',
     },
-  ];
+];
 
   const ListItemNama = dataPassing => {
     return (
@@ -68,7 +68,7 @@ function HomePages() {
           style={HomeStyle.headerImage}
         />
         <Text style={HomeStyle.headerTXT}>
-          PRAKTIKUM MDP MODUL 4 KELOMPOK XX
+          PRAKTIKUM MDP MODUL 4 KELOMPOK 13 
         </Text>
       </View>
       <FlatList
