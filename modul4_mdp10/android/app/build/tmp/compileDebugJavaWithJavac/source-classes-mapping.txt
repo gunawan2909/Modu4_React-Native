@@ -1,0 +1,14 @@
+com/modul4_mdp10/MainApplication.java
+ com.modul4_mdp10.MainApplication
+ com.modul4_mdp10.MainApplication$1
+com/modul4_mdp10/MainActivity.java
+ com.modul4_mdp10.MainActivity
+com/modul4_mdp10/ReactNativeFlipper.java
+ com.modul4_mdp10.ReactNativeFlipper
+ com.modul4_mdp10.ReactNativeFlipper$1
+ com.modul4_mdp10.ReactNativeFlipper$2
+ com.modul4_mdp10.ReactNativeFlipper$2$1
+com/modul4_mdp10/BuildConfig.java
+ com.modul4_mdp10.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
